@@ -1,4 +1,4 @@
-# Smart Library management system using python : beginer level project.
+# Smart Library system using python : beginer level project.
 
 Smart logical Library Management System Software Project using python consol.
 
